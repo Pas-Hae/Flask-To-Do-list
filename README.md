@@ -34,4 +34,4 @@ Dieses Projekt ist eine einfache To-Do-Liste, die mit Flask und SQLite erstellt 
 
 ## Lizenz
 
-Dieses Projekt steht unter der MIT-Lizenz. Siehe die [LICENSE.md](LICENSE.md)-Datei für Details.
+Dieses Projekt steht unter der MIT-Lizenz.
